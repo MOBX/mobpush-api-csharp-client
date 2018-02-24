@@ -32,8 +32,8 @@
 ## 代码说明
 * mobpush-api-csharp-client 接口实现代码
 * mobpush-api-demo 实现创建推送的DEMO
-* MobPushConfig.cs 基础配置
-* MobPushClient.cs API接口调用入口
+* [MobPushConfig.cs](https://github.com/MOBX/mobpush-api-csharp-client/blob/master/mobpush-api-csharp-client/MobPushConfig.cs) 基础配置
+* [MobPushClient.cs](https://github.com/MOBX/mobpush-api-csharp-client/blob/master/mobpush-api-csharp-client/MobPushClient.cs) API接口调用入口
 
  
 ## 使用注意事项
