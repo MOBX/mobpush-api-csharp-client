@@ -1,0 +1,7 @@
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-demo.exe
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-demo.pdb
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.exe
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.pdb
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-csharp-client.dll
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\Newtonsoft.Json.dll
+D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.csprojResolveAssemblyReference.cache
