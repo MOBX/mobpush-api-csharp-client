@@ -1,4 +1,4 @@
-# [MobPush API for Python](http://wiki.mob.com/mobpush-rest-api-接口文档/)
+# [MobPush API for C#](http://wiki.mob.com/mobpush-rest-api-接口文档/)
 
 ![image](https://github.com/MOBX/MOB-SMS-WEBAPI/blob/master/doc/images/logo.png)
 
