@@ -145,7 +145,7 @@ namespace mobpush.api.client
                     pushWork.iosProduction = 1;
                 }
             }
-            string path = MobPushConfig.pushUrl + "/push";
+            string path = MobPushConfig.pushUrl + "/v2/push";
             try
             {
                 MobResult mr = Commons.WebClientPost(path, JsonExtension.ToJSON(pushWork));
