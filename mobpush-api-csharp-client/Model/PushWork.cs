@@ -244,6 +244,7 @@ namespace mobpush.api.client
             {
                 this.block = block;
             }
+			this.target = target;
             return this;
         }
 
