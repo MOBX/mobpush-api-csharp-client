@@ -22,6 +22,7 @@ namespace mobpush_api_demo
                 .buildAndroid("Android Title", (int)AndroidNotifyStyleEnum.normal, null, true, true, true) //定制android样式
                 .bulidIos("ios Title", "ios Subtitle", null, 1, null, null, null, null) //定制ios设置
                 .buildExtra(1, "{\"key1\":\"value\"}", 1) // 设置扩展信息
+                .buildScheme("mlink://com.mob.mobpush.link", "{\"key\":\"value\"}")
                 ;
 
             string batchId = client.push(push);
