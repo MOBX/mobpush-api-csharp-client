@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\chenshf\\Desktop\\mob\\mobpush-api-csharp-client\\mobpush-api-demo\\mobpush-api-demo.csproj",
+  "TargetFramework": "v4.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

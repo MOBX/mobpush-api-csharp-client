@@ -5,3 +5,12 @@ D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpus
 D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-csharp-client.dll
 D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\Newtonsoft.Json.dll
 D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.csprojResolveAssemblyReference.cache
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-demo.exe
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-demo.pdb
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\mobpush-api-csharp-client.dll
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.csproj.CoreCompileInputs.cache
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.csproj.CopyComplete
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.exe
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.pdb
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-demo\obj\Debug\mobpush-api-demo.csprojAssemblyReference.cache

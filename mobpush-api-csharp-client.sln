@@ -1,9 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobpush-api-csharp-client", "mobpush-api-csharp-client\mobpush-api-csharp-client.csproj", "{BDFA1655-922E-4294-8EF2-E494A9B542A1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{935C22AB-D024-44DF-A21E-EA751ED28101} = {935C22AB-D024-44DF-A21E-EA751ED28101}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobpush-api-demo", "mobpush-api-demo\mobpush-api-demo.csproj", "{935C22AB-D024-44DF-A21E-EA751ED28101}"
 EndProject
@@ -24,5 +27,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B26D82-1CBF-4501-A645-7DF3674BA8AE}
 	EndGlobalSection
 EndGlobal

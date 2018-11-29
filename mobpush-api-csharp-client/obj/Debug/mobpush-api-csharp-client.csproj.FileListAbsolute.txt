@@ -4,3 +4,10 @@ D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-csharp-client\bin\Deb
 D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-csharp-client\bin\Debug\Newtonsoft.Json.dll
 D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-csharp-client\obj\Debug\mobpush-api-csharp-client.dll
 D:\github\hlliu\mobx\mobpush-api-csharp-client\mobpush-api-csharp-client\obj\Debug\mobpush-api-csharp-client.pdb
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\bin\Debug\mobpush-api-csharp-client.dll
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\bin\Debug\mobpush-api-csharp-client.pdb
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\obj\Debug\mobpush-api-csharp-client.csproj.CoreCompileInputs.cache
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\obj\Debug\mobpush-api-csharp-client.csproj.CopyComplete
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\obj\Debug\mobpush-api-csharp-client.dll
+C:\Users\chenshf\Desktop\mob\mobpush-api-csharp-client\mobpush-api-csharp-client\obj\Debug\mobpush-api-csharp-client.pdb
