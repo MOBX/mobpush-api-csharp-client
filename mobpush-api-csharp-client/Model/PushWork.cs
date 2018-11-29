@@ -163,6 +163,16 @@ namespace mobpush.api.client
         /// </summary>
         public int? iosMutableContent { get; set; }
 
+        /// <summary>
+        /// 需要在附加字段中配置相应参数
+        /// </summary>
+        public string scheme { get; set; }
+
+        /// <summary>
+        /// 需要在附加字段中配置相应参数
+        /// </summary>
+        public string data { get; set; }
+
         public PushWork()
         {
 
@@ -211,6 +221,21 @@ namespace mobpush.api.client
         }
 
         /// <summary>
+        /// 设置moblink
+        /// </summary>
+        /// <param name="scheme"></param>
+        /// <param name="data"></param>
+        /// <returns></returns>
+        public PushWork buildScheme(string scheme, string data)
+        {
+            if (!string.IsNullOrEmpty(scheme))
+                this.scheme = scheme;
+            if (!string.IsNullOrEmpty(data))
+                this.data = data;
+            return this;
+        }
+
+        /// <summary>
         /// 设置推送范围
         /// </summary>
         /// <param name="target"></param>
@@ -244,6 +269,7 @@ namespace mobpush.api.client
             {
                 this.block = block;
             }
+            this.target = target;
             return this;
         }
 
